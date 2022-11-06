@@ -207,6 +207,16 @@ Config.Elevators = {
 			coords = vector3(3599.88, 3699.57, 29.69), heading = 176.67, level = "Humaine labs Ground", label = "Main Level",
 		},
 	},
+
+	moneywash = {
+		{
+			coords = vector3(267.41, 270.08, 105.75), heading = 82.96, level = "Outside", label = "Outside",
+		},
+		{
+			coords = vector3(1118.42, -3193.51, -40.39), heading = 176.67, level = "Money Wash", label = "Money Wash",
+		},
+	},
+
 	PillboxElevatorNorth = {
 		{
 			coords = vector3(332.37, -595.56, 43.28), heading = 70.65, level = "Upper Pillbox", label = "Pillbox - Main Floor",
