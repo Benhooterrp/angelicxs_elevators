@@ -183,10 +183,10 @@ Config.Elevators = {
 
 	SkybarElevatorSouth = {
 		{
-			coords = vector3(315.49, -929.32, 52.81), heading = 176.67, level = "Skybar 5th Floor", label = "Bar Level for Skybar",
+			coords = vector3(5012.6, -5748.46, 28.95), heading = 328.91, level = "Cayo", label = "cayo",
 		},
 		{
-			coords = vector3(315.49, -929.32, 29.47), heading = 176.67, level = "Skybar Ground", label = "Street Level for Skybar",
+			coords = vector3(-1598.15, -429.9, 19.75), heading = 182.59, level = "Blackmarket", label = "Ground Level",
 		},
 	},
 	
